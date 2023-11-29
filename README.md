@@ -35,10 +35,10 @@ ou
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/Gh0stE11">
-        <img src="https://avatars.githubusercontent.com/u/115359119?v=4" width="100px;" alt="Foto do Caio no GitHub"/><br>
+      <a href="https://github.com/CodedByLucke">
+        <img src="https://avatars.githubusercontent.com/u/145406645?v=4" width="100px;" alt="Foto do Lucas no GitHub"/><br>
         <sub>
-          <b>Caio</b>
+          <b>Lucas</b>
         </sub>
       </a>
     </td>
