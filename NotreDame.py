@@ -143,6 +143,8 @@ Selecione alguma dúvida:
     0. Sair
     ''')
 
+
+
         if duvida == '0':
             break
 
